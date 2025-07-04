@@ -3,3 +3,9 @@ p, a,li, h1 {
   display:flex;
   justify-content : center;
 }
+
+
+hr {
+  border: none;
+  border-top: 1.5px solid black;
+}
